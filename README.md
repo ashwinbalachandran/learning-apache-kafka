@@ -1,1 +1,1 @@
-# learning-apache-kafka
+# Just a repo for learning Apache Kafka
