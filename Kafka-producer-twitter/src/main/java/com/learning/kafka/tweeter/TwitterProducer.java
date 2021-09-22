@@ -1,4 +1,4 @@
-package java.com.learning.kafka.tweeter;
+package com.learning.kafka.tweeter;
 
 import com.google.common.collect.Lists;
 import com.twitter.hbc.ClientBuilder;
